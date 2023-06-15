@@ -91,9 +91,10 @@
   }
 }
 
+
 body {
   margin: 0;
-  font-family: DM Sans;
+  font-family: 'DM Sans', sans-serif;
   font-size: var(--bs-body-font-size);
   font-weight: 500;
   line-height: var(--bs-body-line-height);
