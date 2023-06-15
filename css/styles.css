@@ -93,11 +93,11 @@
 
 body {
   margin: 0;
-  font-family: var(--bs-body-font-family);
+  font-family: DM Sans;
   font-size: var(--bs-body-font-size);
-  font-weight: var(--bs-body-font-weight);
+  font-weight: 500;
   line-height: var(--bs-body-line-height);
-  color: var(--bs-body-color);
+  color: rgba(0, 0, 0, 0.87);
   text-align: var(--bs-body-text-align);
   background-color: var(--bs-body-bg);
   -webkit-text-size-adjust: 100%;
